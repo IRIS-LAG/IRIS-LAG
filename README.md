@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Public01peq.jpg" />
+  <img width=800 src="/Public01peq.jpg" />
 </div>
 
 <h3 align="center">Hi 😎, I'm Iris Laguna</h3>
@@ -10,7 +10,7 @@
 
 #### First step:
 <div align="center">
-  My site [Soluciones TAGLE] (https://solucstagle.com/)
+  My site:  Soluciones TAGLE  -->>>  https://solucstagle.com/
 </div>
 
 #### Second step:
@@ -25,6 +25,6 @@
 <hr>
 <h3>Connect with me:</h3>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linkedin,facebook,tiktok,instagram" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linkedin,instagram" /></a>facebook,tiktok,
 </p>
 
